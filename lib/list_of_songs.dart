@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:just_audio/just_audio.dart';
 import 'package:music_player/player_screen.dart';
 
+// ignore: must_be_immutable
 class ListOfSongs extends StatelessWidget {
   ListOfSongs({super.key});
 

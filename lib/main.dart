@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:music_player/list_of_songs.dart';
-import 'package:music_player/player_screen.dart';
 
 void main() {
   runApp(const MyApp());
