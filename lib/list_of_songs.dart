@@ -7,7 +7,7 @@ class ListOfSongs extends StatelessWidget {
 
   final List<Map<String, dynamic>> songs = [
     {
-      "imageUrl": "images/katebush.jpg",
+      "imageUrl": "images/katebush.png",
       "title": "Running Up That Hill",
       "artist": "Kate Bush",
       "album": "Hounds of Love",
@@ -15,7 +15,7 @@ class ListOfSongs extends StatelessWidget {
       "songUrl": "asset:///audio/running.mp3",
     },
     {
-      "imageUrl": "images/yinguo.jpg",
+      "imageUrl": "images/yinguo.png",
       "title": "因果 (Karma)",
       "artist": "SKAI isyourgod",
       "album": "八方來財",
@@ -23,7 +23,7 @@ class ListOfSongs extends StatelessWidget {
       "songUrl": "asset:///audio/yinguo.mp3",
     },
     {
-      "imageUrl": "images/fantastic.jpg",
+      "imageUrl": "images/fantastic.png",
       "title": "Fantastic (from the series Arcane League of Legends)",
       "artist": "King Princess",
       "album":
@@ -31,7 +31,7 @@ class ListOfSongs extends StatelessWidget {
       "songUrl": "asset:///audio/fantastic.mp3",
     },
     {
-      "imageUrl": "images/guess.jpg",
+      "imageUrl": "images/guess.png",
       "title": "Guess featuring billie eilish (feat. Billie Eilish)",
       "artist": "Charli xcx & Billie Eilish",
       "album": "Guess featuring Billie Eilish",
